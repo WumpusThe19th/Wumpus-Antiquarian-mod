@@ -1,0 +1,15 @@
+element_start,anti_stained,ActorDataPath
+m_ActorClassIds,wumpus_pillager_antiquarian,
+m_UnlockId,wumpus_antiquarian_3,
+m_OrderPriority,3,
+element_end
+element_start,anti_repentant,ActorDataPath
+m_ActorClassIds,wumpus_pillager_antiquarian,
+m_UnlockId,wumpus_antiquarian_10,
+m_OrderPriority,3,
+element_end
+element_start,anti_archaeologist,ActorDataPath
+m_ActorClassIds,wumpus_pillager_antiquarian,
+m_UnlockId,wumpus_antiquarian_7,
+m_OrderPriority,3,
+element_end

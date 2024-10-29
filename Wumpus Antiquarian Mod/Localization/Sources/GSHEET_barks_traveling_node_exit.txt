@@ -1,0 +1,30 @@
+bark_node_exit_storyassist+wumpus_antiquarian=No risk, and barely a real reward.
+bark_node_exit_storyassist+wumpus_antiquarian=Let's just stop for <i>every</> poor sod, then.
+
+bark_node_exit_success_storyresist+wumpus_antiquarian=We reap what those degenerates sowed!
+bark_node_exit_failure_storyresist+wumpus_antiquarian=I'll need to stow those "robbing corpses" plans I had...
+
+bark_node_exit_hospital+wumpus_antiquarian=Where's kindness when the coin gets counted?
+bark_node_exit_hospital+wumpus_antiquarian=Trust the help only when you've paid them.
+
+bark_node_exit_store+wumpus_antiquarian=Heh. Felt a kinship with that one.
+bark_node_exit_store+wumpus_antiquarian=Keep the extra coin, old timer. We'll surely meet again...
+
+bark_node_exit_watchtower+wumpus_antiquarian=It's bitterly cold up here. 
+bark_node_exit_watchtower+wumpus_antiquarian=Chilling view, eh? Heh heh...
+
+bark_node_exit_storycosmic+wumpus_antiquarian=Cramped quarters. A perfect place for practicing magicks.
+bark_node_exit_storycosmic+wumpus_antiquarian=Malignity flows through this place. It's almost intoxicating.
+
+bark_node_exit_success_storycultist+wumpus_antiquarian=No Stronghold can keep me out!
+bark_node_exit_success_storycultist+wumpus_antiquarian=I too am drawn to their evil, Master...
+
+bark_node_exit_cache+wumpus_antiquarian=To their rightful owner, of course.
+bark_node_exit_cache+wumpus_antiquarian=C'mon, just a little off the top? For myself?
+
+bark_node_exit_oasis+wumpus_antiquarian=Eugh, who is that wretched thing? Is that my reflection?
+bark_node_exit_oasis+wumpus_antiquarian=I can almost remember before the corruption...
+
+bark_node_exit_success_creatureden+wumpus_antiquarian=Surely someone wants this goop. 
+bark_node_exit_failure_creatureden+wumpus_antiquarian=Whose doing laundry? Great.
+

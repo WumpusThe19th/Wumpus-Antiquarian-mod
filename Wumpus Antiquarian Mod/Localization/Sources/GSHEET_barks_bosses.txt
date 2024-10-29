@@ -1,0 +1,14 @@
+bark_notice_book_stack_consumed+wumpus_antiquarian=You burn a greater treasure than you could comprehend!
+//This doesn't scratch the itch in my head.
+bark_notice_harvest_hunger_move+wumpus_antiquarian=Yes, Master. We deserve more than a healthy slice. 
+bark_harvest_meat_consumed+wumpus_antiquarian=I would spend every coin to my name for another morsel!
+bark_eyes_additional_seen+wumpus_antiquarian=My Master and I return even the boldest gaze!
+bark_eyes_seen_stress_proc+wumpus_antiquarian=My treasures fall in one hand...and out the other...
+bark_eyes_seen_stress_proc+wumpus_antiquarian=Nothing more than a sickly dragon atop it's hoard...
+//The god barks are a bit weak for my tastes.
+skill_hover_bark_god_face_your_failure+wumpus_antiquarian=History must not repeat itself.
+skill_hover_bark_god_face_your_failure+wumpus_antiquarian=The world is in ruins. What matter is there if I join it?
+bark_god_summon_failure+wumpus_antiquarian=A moment of strength in a life of weakness. 
+bark_god_summon_failure+wumpus_antiquarian=Cow me not with that blackened ritual!
+bark_hero_failure_kill+wumpus_antiquarian=A queen requires her throne. Yours will do.
+bark_hero_failure_kill+wumpus_antiquarian=Set your sights high, Master. 

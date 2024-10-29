@@ -1,0 +1,17 @@
+#So because the game won't let me use tokens in tool tips, I'm gonna split the difference.
+#If the mod support plug in fixes this and I notice I'll update it. For now...
+token_failure=<color=#{harmful}>Failure</color>
+token_tag_failure=<color=#{harmful}>Failure</color>
+#token_selfish_thoughts=<sprite name={q}token_selfish_thoughts{q}>
+token_selfish_thoughts=<color=#{stress}>Selfish Thoughts</color>
+token_name_selfish_thoughts=<color=#{notable}>Selfish Thoughts</color>
+token_selfish_thoughts_description=Enables certain powerful effects.\nGain a Dodge at the start of the round, is lost when you take stress damage (50%).
+#token_heaving_breaths=<sprite name={q}tiny_token_heaving_breaths.png{q}>
+token_heaving_breaths=<color=#{harmful}>Heaving Breaths</color>
+token_name_heaving_breaths=<color=#{notable}>Heaving Breaths</color>
+token_heaving_breaths_description=Enables certain powerful effects.\nGain +33 on all DOT resists, is lost when you take sufficient damage.
+#token_tunnel_vision=<sprite name={q}token_worship{q}>
+token_tunnel_vision=<color=#{combo_token}>Tunnel Vision</color>
+token_name_tunnel_vision=<color=#{notable}>Tunnel Vision</color>
+token_tunnel_vision_description=Enables certain powerful effects.\nIgnores Stealth and Blind, is lost when you move or are moved.
+

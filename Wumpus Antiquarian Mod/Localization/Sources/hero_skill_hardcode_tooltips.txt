@@ -1,0 +1,37 @@
+## ANTIQUARIAN MOD
+#LOOT TABLE
+effect_tooltip_loot_id_ANTIQUARIAN_GENERAL_SCROUNGE_TABLE=Chance to produce a random item (20%)
+
+#UNSPEAKABLE RITUAL
+performer_buff_desc_tunnel_vision_crit_buff_override=If <color=#{notable}>Tunnel Vision</color>: +50% CRIT
+performer_buff_desc_heaving_breath_dmg_buff_override=If <color=#{notable}>Heaving Breaths</color>: +100% DMG
+token_ignore_desc_selfish_thoughts_ignore_block_override=If <color=#{notable}>Selfish Thoughts</color>:
+token_ignore_desc_selfish_thoughts_ignore_block_plus_override=Ignores
+token_ignore_desc_selfish_thoughts_ignore_dodge_override=<sprite name={q}token_block{q}>
+token_ignore_desc_selfish_thoughts_ignore_dodge_plus_override=<sprite name={q}token_dodge{q}>
+token_ignore_desc_selfish_thoughts_ignore_guard_override=<sprite name={q}token_guard{q}>
+
+#FESTERING VAPORS
+buff_vapor_attack_2_breath_blight_buff=<color=#{buff}>+1<sprite name={q}icon_blight{q}> Dealt</color>
+buff_vapor_attack_2_vision_pierce_buff=<color=#{buff}>+30%<sprite name={q}icon_blight{q}> RES Piercing</color>
+
+#GREEDS GAZE
+#TLDR for other modders; Steal effect in the way it works on Greed's Gaze doesn't work right.
+#But it turns out it writes the tooltip correctly and does nothing when set to the steal effect.
+#So this was me trying to make a fake tooltip for it to not have to use the steal effect.
+#target_buff_desc_fake_greeds_gaze_tooltip_override=Steal Positive Token 1
+#buff_desc_fake_greeds_gaze_tooltip_override=Steal Positive Token 2
+#effect_condition_fake_greeds_gaze_tooltip_override=Steal Positive Token 3
+#performer_buff_fake_greeds_gaze_tooltip_override=Steal Positive Token 4
+#effect_skill_greed_gaze_debuff_e_tooltip_override=Steal Positive Token 5
+#effect_fake_greeds_gaze_tooltip_override=Steal Positive Token 6
+#buff_greed_gaze_debuff=Steal Positive Token 7
+
+#This is just taking too much effort to be reasonably worth it. There's gotta be something else I could do...
+#RELIEVING VAPORS
+effect_skill_selfish_mini_heal_override=Per Failure
+effect_skill_heaving_mini_heal_override=Token;
+effect_skill_tunnel_mini_heal_override=Heal self 10%
+buff_relief_failure_healing_override=+10% <sprite name={q}token_stress{q}> RES
+buff_relief_failure_healing=+10% <sprite name={q}token_stress{q}> RES
+

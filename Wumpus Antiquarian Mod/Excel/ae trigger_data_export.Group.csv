@@ -1,0 +1,16 @@
+element_start,wacky_waelon_combat_start,ActorEffectTrigger
+m_ActorEffectType,round_start,
+m_ActorEffectTriggerSourceType,target,
+m_ActorEffectTriggerTargetType,friendly_team,
+m_IncludeSourceActor,True,
+m_ActorCount,4,
+effects,lost_battalion_shared_stability_e,
+element_end
+element_start,aet_scrounge_loot,ActorEffectTrigger
+m_ActorEffectType,performer,
+m_ActorEffectTriggerSourceType,target,
+m_ActorEffectTriggerTargetType,performer,
+m_IncludeSourceActor,True,
+m_ActorCount,1,
+effects,add_scrounge_loot,
+element_end

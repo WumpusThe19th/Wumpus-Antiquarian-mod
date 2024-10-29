@@ -1,0 +1,2 @@
+wumpus_antiquarian=Antiquarian
+hero_select_wumpus_antiquarian=<sup><size=90%>The</size></sup> Antiquarian

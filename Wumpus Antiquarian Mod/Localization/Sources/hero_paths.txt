@@ -1,0 +1,18 @@
+# ANTIQUARIAN - REPENTANT
+hero_path_name_anti_repentant=Repentant
+hero_path_name_anti_repentant+male=Repentant
+hero_path_name_anti_repentant+female=Repentant
+hero_path_flavour_anti_repentant=\n"If even I could change, perhaps the world can as well..."\n
+
+# ANTIQUARIAN - STAINED
+hero_path_name_anti_stained=Stained
+hero_path_name_anti_stained+male=Stained
+hero_path_name_anti_stained+female=Stained
+hero_path_flavour_anti_stained=\n"My worst impulses drive me further!"\n
+
+# ANTIQUARIAN - ARCHAEOLOGIST
+hero_path_name_anti_archaeologist=Archaeologist
+hero_path_name_anti_archaeologist+male=Archaeologist
+hero_path_name_anti_archaeologist+female=Archaeologist
+hero_path_flavour_anti_archaeologist=\n"All that glitters must be gold!"\n
+#

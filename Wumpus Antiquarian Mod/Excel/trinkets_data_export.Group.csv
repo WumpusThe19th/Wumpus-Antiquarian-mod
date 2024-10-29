@@ -1,0 +1,14 @@
+element_start,trinket_wumpus_one_of_three,Item
+m_type,trinket,
+m_possessionLimit,1,
+m_maxQty,1,
+m_combinable,False,
+m_isConsumable,False,
+sub_type,epic,
+m_buyCostId,trinket_wumpus_one_of_three,
+m_DiscardGameScorePerQty,1,
+m_conditionIds,performer_is_wumpus_antiquarian,
+element_end
+element_start,trinket_wumpus_one_of_three,ActorDataExternalBuffs
+buffs,trinket_collector_junias_head_01,trinket_collector_junias_head_02,trinket_collector_junias_head_03,
+element_end

@@ -1,0 +1,19 @@
+##ANTIQUARIAN
+#
+skill_name_pillager_antiquarian_unspeakable_ritual=Unspeakable Ritual
+skill_name_pillager_antiquarian_mixed_bag=Mixed Bag
+skill_name_pillager_antiquarian_greeds_gaze=Greed's Gaze
+skill_name_pillager_antiquarian_relieving_vapors=Relieving Vapors
+skill_name_pillager_antiquarian_get_down=Get Down!
+skill_name_pillager_antiquarian_fortifying_vapors=Fortifying Vapors
+skill_name_pillager_antiquarian_unspeakable_ritual_u=Unspeakable Ritual<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_mixed_bag_u=Mixed Bag<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_greeds_gaze_u=Greed's Gaze<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_relieving_vapors_u=Relieving Vapors<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_get_down_u=Get Down!<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_fortifying_vapors_u=Fortifying Vapors<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_knife_u=Nervous Stab<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_vapor_buff_u=Invigorating Vapors<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_vapor_attack_1_u=Festering Vapors<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_vapor_attack_2_u=Flashpowder<sprite name={q}icon_upgraded_skill{q}>
+skill_name_pillager_antiquarian_protect_me_u=Protect Me<sprite name={q}icon_upgraded_skill{q}>

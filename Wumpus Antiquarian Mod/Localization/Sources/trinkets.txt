@@ -1,0 +1,3 @@
+item_name_trinket_wumpus_one_of_three=One of Three
+item_name_trinket_wumpus_gloom_wreathed_crown=Gloom-Wreathed Crown
+item_name_trinket_wumpus_whisp_of_empathy=Whisp of Empathy

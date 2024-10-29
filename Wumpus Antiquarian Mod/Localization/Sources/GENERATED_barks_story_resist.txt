@@ -1,0 +1,8 @@
+story_bark_resist_fight_wump=For gold and...mostly gold!
+story_bark_resist_advantage_wump=Wouldn't hurt to pinch a couple knick-knacks beforehand.
+story_bark_resist_flee_wump=Hmm. Nothing they have is valuable enough for us.
+story_bark_resist_flee_wump_cosmic=Their frozen finger tips still allure me...No! let's leave!
+story_bark_resist_mountain_wump=The greatest treasure of all; Redemption!
+story_bark_resist_mountain_wumpb=Maybe I am lit from within...
+story_bark_resist_mountain_wumpus=I invoke the true name of your gods! Tremble!
+story_bark_resist_mountain_wumpusb=I understand the world's failings better than you louts ever will!

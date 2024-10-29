@@ -1,0 +1,8 @@
+element_start,ANTIQUARIAN_GENERAL_SCROUNGE_TABLE,LootTable
+m_chances,2,2,2,2,2,1,1,2,1,1,1,1,2,2,.5,1,2,
+m_qtys,2,4,2,1,1,1,2,2,1,2,1,1,1,1,4,2,2,
+m_ids,gold_tiny,baubles_little,laudanum,bandages,antivenom,burn_salve,smoke_bomb,torch_consumable,medicinal_herbs,healing_consumable_1,holy_beads,blasphemous_idol,calming_incense,book_desert,food_2,food_3,food_5,
+m_types,sub_table,sub_table,item,item,item,item,item,item,item,item,item,item,item,item,item,item,item,
+m_tags,
+m_conditions,
+element_end

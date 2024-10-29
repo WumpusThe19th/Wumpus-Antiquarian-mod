@@ -1,0 +1,24 @@
+bark_route_safe+wumpus_antiquarian=I'm sure there's <i>something</i> in the cushions here...
+bark_route_safe+wumpus_antiquarian=Every easy road brings us closer to compensation!
+bark_route_safe+wumpus_antiquarian=It's times like these I'd start thinking about my life choices...
+bark_route_safe+wumpus_antiquarian=Inspection time! Show me your valuables.
+
+bark_route_rough_patch+wumpus_antiquarian=This isn't the gold bricked road, that's for sure.
+bark_route_rough_patch+wumpus_antiquarian=How easily this coach falls apart...
+bark_route_rough_patch+wumpus_antiquarian=We can't get stopped by bandits! Not with this much cargo!
+bark_route_rough_patch+wumpus_antiquarian=Better be something worth the damage after this.
+
+bark_route_hazard+wumpus_antiquarian=Don't let me get hit!
+bark_route_hazard+wumpus_antiquarian=Where's it coming from? I can't see them!
+bark_route_hazard+wumpus_antiquarian=Why did I join you fools?!
+bark_route_hazard+wumpus_antiquarian=Those knaves use <i>my</i> tricks against us.
+
+bark_route_combat+wumpus_antiquarian=They have relics! DRIVE FASTER!
+bark_route_combat+wumpus_antiquarian=Leave nothing behind.
+bark_route_combat+wumpus_antiquarian=Surely they won't need the supplies when we're done with them?
+bark_route_combat+wumpus_antiquarian=Remember the plan; Protect me at all costs.
+
+bark_route_oblivion_tear+wumpus_antiquarian=Master, can you not hear her cries? MASTER!
+bark_route_oblivion_tear+wumpus_antiquarian=It's an almost...comfortable cold.
+bark_route_oblivion_tear+wumpus_antiquarian=No shimmers of gold in the darkness...
+bark_route_oblivion_tear+wumpus_antiquarian=Everything turns to dust eventually. 

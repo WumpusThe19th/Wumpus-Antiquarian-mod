@@ -1,0 +1,7 @@
+element_start,recruit_hero_wumpus_antiquarian_01,NarrationEntry
+m_type,recruit_hero,
+m_audioEventId,event:/vo/recruit_hero/flagellant,
+m_allTags,wumpus_antiquarian,
+m_occurrenceTypes,node,
+m_maxOccurrences,1,
+element_end

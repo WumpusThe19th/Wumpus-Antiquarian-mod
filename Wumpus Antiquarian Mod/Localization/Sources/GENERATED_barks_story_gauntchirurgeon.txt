@@ -1,0 +1,4 @@
+story_bark_gauntchirurgeon_fight_wump=I'm a vulture at heart.
+story_bark_gauntchirurgeon_fight_advantage_wump=I hope that shimmer is relics and not <i>hurk</i> gristle.
+story_bark_gauntchirurgeon_flee_wump=My stomach squirms as those leeches worm around.
+Writing it here, make a meme of Occultist and Runaway with Runaway as a non-fire hazard

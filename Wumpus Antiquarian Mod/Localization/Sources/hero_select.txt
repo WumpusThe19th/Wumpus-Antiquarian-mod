@@ -1,0 +1,2 @@
+actor_verbose_description_wumpus_antiquarian=“Sees what others cannot, \n and pilfers what others will not.”
+actor_descriptors_wumpus_antiquarian=+ Back Rank\n+ Flighty\n+ Debuff Support\n+ Extra Loot
